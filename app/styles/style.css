@@ -1,0 +1,8 @@
+.link svg{
+  margin: 2px;
+  opacity: 0;
+  transition: opacity 0.25s ease-in-out;
+}
+.link:hover svg{
+opacity: 1;
+}
