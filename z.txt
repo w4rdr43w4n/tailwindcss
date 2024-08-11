@@ -1,0 +1,29 @@
+  Examples:
+    - Video only Ads with script:
+      Link1: https://cdn.creatomate.com/renders/5c22a98a-b111-4e47-90c8-4a004d2b17a6.mp4
+      Link2: https://cdn.creatomate.com/renders/22a12a9a-da5a-4220-9015-2cb5bb79fa5e.mp4
+      Link3: https://cdn.creatomate.com/renders/2d8a4fe3-be29-468e-a695-3b23d1ba5136.mp4
+    - Images Slide Show:
+      Link1: https://cdn.creatomate.com/renders/c406548f-2430-422f-aaa4-80d3509243e4.mp4
+    - Images With Company Logo:
+      Link1: https://cdn.creatomate.com/renders/d1ceb25f-0915-4609-bc87-d96f78b0f82c.mp4
+      Link2: https://cdn.creatomate.com/renders/f8988082-bfe2-4365-9455-dac0dc028158.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      https://cdn.creatomate.com/renders/d9c5ec22-4934-474a-94fb-5ee7a91909fc.mp4
